@@ -1,7 +1,7 @@
 #Get the list of installed packeges
 library()
 
-#install a packege. for example XML packege
+#install a packege for example XML packege
 install.packages("XML")
 
 #Histogram represents the frequencies of values of a variable
